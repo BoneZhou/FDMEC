@@ -1,4 +1,4 @@
-# FDMEC
+# MECKD
 The Python source code for Deep Learning-based Fall Detection in Multi-layer Mobile Edge Computing with Knowledge Distillation
   * Public Dataset
   * Data Preprocessing
