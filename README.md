@@ -1,9 +1,8 @@
 # MECKD
 The Python source code for Deep Learning-based Fall Detection in Multi-layer Mobile Edge Computing with Knowledge Distillation
-  * Public Dataset
   * Data Preprocessing
   * Threshold-based Classification Function
-  * ResNet18, MobileNet, and CNN Model Functions
+  * ResNet18, MobileNet, and CNN Model
   * Knowledge Distillation Loss Function
 
 # The falls dataset can be found in the following dataport：
